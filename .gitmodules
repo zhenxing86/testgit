@@ -1,0 +1,3 @@
+[submodule "src/mian/webapp/ui-libs"]
+	path = src/mian/webapp/ui-libs
+	url = git://github.com/zhenxing86/testgit.git
