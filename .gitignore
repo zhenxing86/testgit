@@ -2,3 +2,4 @@
 *.temp
 vendor/
 log/*
+exclude.txt
